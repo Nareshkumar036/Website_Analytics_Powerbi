@@ -24,7 +24,7 @@ This Power BI dashboard provides a detailed analysis of website traffic, user ac
 
 ## 📸 Screenshot
 
-![Website Analytics]()
+![Website Analytics](Screenshot 2025-05-10 211049.png)
 
 > Replace the image path after uploading to GitHub.
 
